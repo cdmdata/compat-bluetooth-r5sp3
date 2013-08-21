@@ -1,0 +1,2 @@
+/home/rszuminski/Development/LSR/compat-bluetooth/drivers/bluetooth/hci_uart.ko
+/home/rszuminski/Development/LSR/compat-bluetooth/drivers/bluetooth/hci_ldisc.o /home/rszuminski/Development/LSR/compat-bluetooth/drivers/bluetooth/hci_h4.o /home/rszuminski/Development/LSR/compat-bluetooth/drivers/bluetooth/hci_bcsp.o /home/rszuminski/Development/LSR/compat-bluetooth/drivers/bluetooth/hci_ll.o /home/rszuminski/Development/LSR/compat-bluetooth/drivers/bluetooth/hci_ath.o

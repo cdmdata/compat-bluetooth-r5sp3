@@ -1,0 +1,4 @@
+kernel//home/rszuminski/Development/LSR/compat-bluetooth/net/bluetooth/bluetooth.ko
+kernel//home/rszuminski/Development/LSR/compat-bluetooth/net/bluetooth/rfcomm/rfcomm.ko
+kernel//home/rszuminski/Development/LSR/compat-bluetooth/net/bluetooth/bnep/bnep.ko
+kernel//home/rszuminski/Development/LSR/compat-bluetooth/net/bluetooth/hidp/hidp.ko

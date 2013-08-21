@@ -1,0 +1,1 @@
+cmd_/home/rszuminski/Development/LSR/compat-bluetooth/built-in.o :=  arm-eabi-ld -EL    -r -o /home/rszuminski/Development/LSR/compat-bluetooth/built-in.o /home/rszuminski/Development/LSR/compat-bluetooth/compat/built-in.o /home/rszuminski/Development/LSR/compat-bluetooth/net/rfkill/built-in.o /home/rszuminski/Development/LSR/compat-bluetooth/net/bluetooth/built-in.o 
